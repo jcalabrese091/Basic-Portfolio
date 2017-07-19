@@ -1,14 +1,44 @@
-#about {
-	
+
+#header{
+	background-color: #ffffff;
+	border-color: #cccccc;
+}
+#nav {	
+	border-style: solid;
+	border-width: 50px;
+	width: 950px;
+	float: right;
+}
+#about-me{
+	width: 550px;
+	height: 300px;
+	padding-left: 200px;
+	padding-right: 20px;
+	padding-top: 15px;
+	border-color: #dddddd;
+	float: left;
+	border-style: solid;
 }
 .about-me {
-	border-style: solid;
-	float: left;
+	border-width: 5;
+	text-align: center;
 }
 .about-image {
-	width: 100px;
+	width: 150px;
+	height: 150px;
 }
-.about-info {
+#about-info {
 	border-style: solid;
+	width: 150px;
+	height: 150px;
 	float: right;
+	padding-right: 300px;
+}
+aside {
+}
+footer {
+	background-color: #666666;
+	width: 960px;
+	height: 200px;
+	border-width: 50px;
 }
