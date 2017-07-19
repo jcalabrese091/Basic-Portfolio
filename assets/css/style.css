@@ -1,0 +1,14 @@
+#about {
+	
+}
+.about-me {
+	border-style: solid;
+	float: left;
+}
+.about-image {
+	width: 100px;
+}
+.about-info {
+	border-style: solid;
+	float: right;
+}
